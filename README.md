@@ -35,7 +35,14 @@
 
 ## 📈 Моя статистика на GitHub
 
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?daria-rumyantseva&show_icons=true&theme=radical)
+
+---
+
+
+## 👀 Посетители
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/daria-rumyantseva=daria-rumyantseva&label=Посетители&labelColor=%23ffa500&countColor=%23263759)
 
 ---
 
